@@ -23,8 +23,6 @@ public class ArrayDequeu {
 		adq.poll();
 		System.out.println(adq);
 		adq.offer("E");
-		System.out.println(adq);
-		adq.
 
 	}
 

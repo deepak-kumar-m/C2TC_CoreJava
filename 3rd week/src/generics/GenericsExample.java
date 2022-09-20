@@ -8,8 +8,7 @@ public class GenericsExample {
 	public static void main(String[] args) 
 	{
 		ArrayList<String> list = new ArrayList<String>();
-		List.add("India");
-		List.add("Pakisthan");
+		
 		 
 		
 	}
